@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.aboutLine {
+    width: 100px;
+    height: 4px;
+    background-color: #fff;
+    margin: 0 10px;
+}
